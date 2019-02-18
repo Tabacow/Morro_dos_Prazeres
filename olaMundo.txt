@@ -1,0 +1,3 @@
+para utuilizar o vi, apertar I para começar a editar o arquivo.
+Para abrir o VI: vi nomeArquivo
+
